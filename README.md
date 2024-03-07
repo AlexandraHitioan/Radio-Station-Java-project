@@ -1,0 +1,1 @@
+Java & SQL management project for a radio station. There is a database that stores information about all of the saved songs, and the user can load and filter all of the available songs from the user interface, designed using JavaFX
